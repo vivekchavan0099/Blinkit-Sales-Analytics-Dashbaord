@@ -29,5 +29,8 @@ The Blinkit Sales Analytics Dashboard is an interactive Power BI project designe
 - Outlet establishment and location analysis
 - Dynamic filtering for exploring business performance
 
+## Screenshot:
+https://github.com/vivekchavan0099/Blinkit-Sales-Analytics-Dashbaord/blob/main/Screenshot_main_dashboard_1.png
+
 ## 👩‍💻 Author
 Vivek Chavan
